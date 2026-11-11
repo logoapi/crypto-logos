@@ -11,7 +11,7 @@ Free crypto coin logos as SVG, by ticker symbol. Every coin has a light and a da
 - **Unknown symbol:** add `?fallback=404` to get a clean 404 instead of a letter tile.
 - **Hot-link the logoapi.sh URLs, not raw GitHub links.** They come from a CDN and pick up new coins and fixes. Raw GitHub links are not meant for serving images in an app.
 - **Offline:** every file is in this repo, in `svg/light/` and `svg/dark/`. `index.json` maps symbol, name and paths.
-- **Files:** 36 coins, all vector SVG, no embedded raster images. Logos come from each project's official brand files.
+- **Files:** 37 coins, all vector SVG, no embedded raster images. Logos come from each project's official brand files.
 - **Limits:** the hosted URLs are free up to 2M requests a month per site, served from a CDN with `Access-Control-Allow-Origin: *`.
 
 ## Coins
@@ -32,6 +32,7 @@ Free crypto coin logos as SVG, by ticker symbol. Every coin has a light and a da
 | <img src="svg/light/TON.svg" width="32" height="32" alt="Toncoin logo"> | <img src="svg/dark/TON.svg" width="32" height="32" alt="Toncoin logo, dark mode"> | `TON` | Toncoin | `logoapi.sh/crypto/TON.svg` |
 | <img src="svg/light/DOT.svg" width="32" height="32" alt="Polkadot logo"> | <img src="svg/dark/DOT.svg" width="32" height="32" alt="Polkadot logo, dark mode"> | `DOT` | Polkadot | `logoapi.sh/crypto/DOT.svg` |
 | <img src="svg/light/LINK.svg" width="32" height="32" alt="Chainlink logo"> | <img src="svg/dark/LINK.svg" width="32" height="32" alt="Chainlink logo, dark mode"> | `LINK` | Chainlink | `logoapi.sh/crypto/LINK.svg` |
+| <img src="svg/light/SHIB.svg" width="32" height="32" alt="Shiba Inu logo"> | <img src="svg/dark/SHIB.svg" width="32" height="32" alt="Shiba Inu logo, dark mode"> | `SHIB` | Shiba Inu | `logoapi.sh/crypto/SHIB.svg` |
 | <img src="svg/light/SUI.svg" width="32" height="32" alt="Sui logo"> | <img src="svg/dark/SUI.svg" width="32" height="32" alt="Sui logo, dark mode"> | `SUI` | Sui | `logoapi.sh/crypto/SUI.svg` |
 | <img src="svg/light/ARB.svg" width="32" height="32" alt="Arbitrum logo"> | <img src="svg/dark/ARB.svg" width="32" height="32" alt="Arbitrum logo, dark mode"> | `ARB` | Arbitrum | `logoapi.sh/crypto/ARB.svg` |
 | <img src="svg/light/OP.svg" width="32" height="32" alt="Optimism logo"> | <img src="svg/dark/OP.svg" width="32" height="32" alt="Optimism logo, dark mode"> | `OP` | Optimism | `logoapi.sh/crypto/OP.svg` |

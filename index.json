@@ -112,6 +112,14 @@
   "dark_url": "https://logoapi.sh/dark/crypto/LINK.svg"
  },
  {
+  "symbol": "SHIB",
+  "name": "Shiba Inu",
+  "light": "svg/light/SHIB.svg",
+  "dark": "svg/dark/SHIB.svg",
+  "url": "https://logoapi.sh/crypto/SHIB.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/SHIB.svg"
+ },
+ {
   "symbol": "SUI",
   "name": "Sui",
   "light": "svg/light/SUI.svg",
