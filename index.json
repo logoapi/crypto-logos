@@ -1,0 +1,290 @@
+[
+ {
+  "symbol": "BTC",
+  "name": "Bitcoin",
+  "light": "svg/light/BTC.svg",
+  "dark": "svg/dark/BTC.svg",
+  "url": "https://logoapi.sh/crypto/BTC.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/BTC.svg"
+ },
+ {
+  "symbol": "ETH",
+  "name": "Ethereum",
+  "light": "svg/light/ETH.svg",
+  "dark": "svg/dark/ETH.svg",
+  "url": "https://logoapi.sh/crypto/ETH.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ETH.svg"
+ },
+ {
+  "symbol": "USDT",
+  "name": "Tether",
+  "light": "svg/light/USDT.svg",
+  "dark": "svg/dark/USDT.svg",
+  "url": "https://logoapi.sh/crypto/USDT.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/USDT.svg"
+ },
+ {
+  "symbol": "BNB",
+  "name": "BNB",
+  "light": "svg/light/BNB.svg",
+  "dark": "svg/dark/BNB.svg",
+  "url": "https://logoapi.sh/crypto/BNB.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/BNB.svg"
+ },
+ {
+  "symbol": "SOL",
+  "name": "Solana",
+  "light": "svg/light/SOL.svg",
+  "dark": "svg/dark/SOL.svg",
+  "url": "https://logoapi.sh/crypto/SOL.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/SOL.svg"
+ },
+ {
+  "symbol": "XRP",
+  "name": "XRP",
+  "light": "svg/light/XRP.svg",
+  "dark": "svg/dark/XRP.svg",
+  "url": "https://logoapi.sh/crypto/XRP.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/XRP.svg"
+ },
+ {
+  "symbol": "USDC",
+  "name": "USD Coin",
+  "light": "svg/light/USDC.svg",
+  "dark": "svg/dark/USDC.svg",
+  "url": "https://logoapi.sh/crypto/USDC.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/USDC.svg"
+ },
+ {
+  "symbol": "DOGE",
+  "name": "Dogecoin",
+  "light": "svg/light/DOGE.svg",
+  "dark": "svg/dark/DOGE.svg",
+  "url": "https://logoapi.sh/crypto/DOGE.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/DOGE.svg"
+ },
+ {
+  "symbol": "ADA",
+  "name": "Cardano",
+  "light": "svg/light/ADA.svg",
+  "dark": "svg/dark/ADA.svg",
+  "url": "https://logoapi.sh/crypto/ADA.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ADA.svg"
+ },
+ {
+  "symbol": "TRX",
+  "name": "TRON",
+  "light": "svg/light/TRX.svg",
+  "dark": "svg/dark/TRX.svg",
+  "url": "https://logoapi.sh/crypto/TRX.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/TRX.svg"
+ },
+ {
+  "symbol": "AVAX",
+  "name": "Avalanche",
+  "light": "svg/light/AVAX.svg",
+  "dark": "svg/dark/AVAX.svg",
+  "url": "https://logoapi.sh/crypto/AVAX.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/AVAX.svg"
+ },
+ {
+  "symbol": "TON",
+  "name": "Toncoin",
+  "light": "svg/light/TON.svg",
+  "dark": "svg/dark/TON.svg",
+  "url": "https://logoapi.sh/crypto/TON.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/TON.svg"
+ },
+ {
+  "symbol": "DOT",
+  "name": "Polkadot",
+  "light": "svg/light/DOT.svg",
+  "dark": "svg/dark/DOT.svg",
+  "url": "https://logoapi.sh/crypto/DOT.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/DOT.svg"
+ },
+ {
+  "symbol": "LINK",
+  "name": "Chainlink",
+  "light": "svg/light/LINK.svg",
+  "dark": "svg/dark/LINK.svg",
+  "url": "https://logoapi.sh/crypto/LINK.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/LINK.svg"
+ },
+ {
+  "symbol": "SUI",
+  "name": "Sui",
+  "light": "svg/light/SUI.svg",
+  "dark": "svg/dark/SUI.svg",
+  "url": "https://logoapi.sh/crypto/SUI.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/SUI.svg"
+ },
+ {
+  "symbol": "ARB",
+  "name": "Arbitrum",
+  "light": "svg/light/ARB.svg",
+  "dark": "svg/dark/ARB.svg",
+  "url": "https://logoapi.sh/crypto/ARB.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ARB.svg"
+ },
+ {
+  "symbol": "OP",
+  "name": "Optimism",
+  "light": "svg/light/OP.svg",
+  "dark": "svg/dark/OP.svg",
+  "url": "https://logoapi.sh/crypto/OP.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/OP.svg"
+ },
+ {
+  "symbol": "NEAR",
+  "name": "NEAR Protocol",
+  "light": "svg/light/NEAR.svg",
+  "dark": "svg/dark/NEAR.svg",
+  "url": "https://logoapi.sh/crypto/NEAR.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/NEAR.svg"
+ },
+ {
+  "symbol": "XLM",
+  "name": "Stellar",
+  "light": "svg/light/XLM.svg",
+  "dark": "svg/dark/XLM.svg",
+  "url": "https://logoapi.sh/crypto/XLM.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/XLM.svg"
+ },
+ {
+  "symbol": "BCH",
+  "name": "Bitcoin Cash",
+  "light": "svg/light/BCH.svg",
+  "dark": "svg/dark/BCH.svg",
+  "url": "https://logoapi.sh/crypto/BCH.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/BCH.svg"
+ },
+ {
+  "symbol": "HYPE",
+  "name": "Hyperliquid",
+  "light": "svg/light/HYPE.svg",
+  "dark": "svg/dark/HYPE.svg",
+  "url": "https://logoapi.sh/crypto/HYPE.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/HYPE.svg"
+ },
+ {
+  "symbol": "ZEC",
+  "name": "Zcash",
+  "light": "svg/light/ZEC.svg",
+  "dark": "svg/dark/ZEC.svg",
+  "url": "https://logoapi.sh/crypto/ZEC.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ZEC.svg"
+ },
+ {
+  "symbol": "INJ",
+  "name": "Injective",
+  "light": "svg/light/INJ.svg",
+  "dark": "svg/dark/INJ.svg",
+  "url": "https://logoapi.sh/crypto/INJ.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/INJ.svg"
+ },
+ {
+  "symbol": "TIA",
+  "name": "Celestia",
+  "light": "svg/light/TIA.svg",
+  "dark": "svg/dark/TIA.svg",
+  "url": "https://logoapi.sh/crypto/TIA.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/TIA.svg"
+ },
+ {
+  "symbol": "SEI",
+  "name": "Sei",
+  "light": "svg/light/SEI.svg",
+  "dark": "svg/dark/SEI.svg",
+  "url": "https://logoapi.sh/crypto/SEI.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/SEI.svg"
+ },
+ {
+  "symbol": "JUP",
+  "name": "Jupiter",
+  "light": "svg/light/JUP.svg",
+  "dark": "svg/dark/JUP.svg",
+  "url": "https://logoapi.sh/crypto/JUP.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/JUP.svg"
+ },
+ {
+  "symbol": "ONDO",
+  "name": "Ondo",
+  "light": "svg/light/ONDO.svg",
+  "dark": "svg/dark/ONDO.svg",
+  "url": "https://logoapi.sh/crypto/ONDO.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ONDO.svg"
+ },
+ {
+  "symbol": "ENA",
+  "name": "Ethena",
+  "light": "svg/light/ENA.svg",
+  "dark": "svg/dark/ENA.svg",
+  "url": "https://logoapi.sh/crypto/ENA.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ENA.svg"
+ },
+ {
+  "symbol": "PENDLE",
+  "name": "Pendle",
+  "light": "svg/light/PENDLE.svg",
+  "dark": "svg/dark/PENDLE.svg",
+  "url": "https://logoapi.sh/crypto/PENDLE.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/PENDLE.svg"
+ },
+ {
+  "symbol": "KAS",
+  "name": "Kaspa",
+  "light": "svg/light/KAS.svg",
+  "dark": "svg/dark/KAS.svg",
+  "url": "https://logoapi.sh/crypto/KAS.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/KAS.svg"
+ },
+ {
+  "symbol": "HBAR",
+  "name": "Hedera",
+  "light": "svg/light/HBAR.svg",
+  "dark": "svg/dark/HBAR.svg",
+  "url": "https://logoapi.sh/crypto/HBAR.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/HBAR.svg"
+ },
+ {
+  "symbol": "ICP",
+  "name": "Internet Computer",
+  "light": "svg/light/ICP.svg",
+  "dark": "svg/dark/ICP.svg",
+  "url": "https://logoapi.sh/crypto/ICP.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ICP.svg"
+ },
+ {
+  "symbol": "FIL",
+  "name": "Filecoin",
+  "light": "svg/light/FIL.svg",
+  "dark": "svg/dark/FIL.svg",
+  "url": "https://logoapi.sh/crypto/FIL.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/FIL.svg"
+ },
+ {
+  "symbol": "AAVE",
+  "name": "Aave",
+  "light": "svg/light/AAVE.svg",
+  "dark": "svg/dark/AAVE.svg",
+  "url": "https://logoapi.sh/crypto/AAVE.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/AAVE.svg"
+ },
+ {
+  "symbol": "ALGO",
+  "name": "Algorand",
+  "light": "svg/light/ALGO.svg",
+  "dark": "svg/dark/ALGO.svg",
+  "url": "https://logoapi.sh/crypto/ALGO.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/ALGO.svg"
+ },
+ {
+  "symbol": "SKY",
+  "name": "Sky",
+  "light": "svg/light/SKY.svg",
+  "dark": "svg/dark/SKY.svg",
+  "url": "https://logoapi.sh/crypto/SKY.svg",
+  "dark_url": "https://logoapi.sh/dark/crypto/SKY.svg"
+ }
+]
