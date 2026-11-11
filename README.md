@@ -9,7 +9,7 @@ Free crypto coin logos as SVG, by ticker symbol. Every coin has a light and a da
 
 - **URL pattern:** `https://logoapi.sh/crypto/{SYMBOL}.svg`, dark mode: `https://logoapi.sh/dark/crypto/{SYMBOL}.svg`
 - **Unknown symbol:** add `?fallback=404` to get a clean 404 instead of a letter tile.
-- **Hot-link the logoapi.sh URLs, not raw GitHub links.** They come from a CDN with long cache headers and pick up new coins and fixes. Raw GitHub links are not meant for serving images in an app.
+- **Hot-link the logoapi.sh URLs, not raw GitHub links.** They come from a CDN and pick up new coins and fixes. Raw GitHub links are not meant for serving images in an app.
 - **Offline:** every file is in this repo, in `svg/light/` and `svg/dark/`. `index.json` maps symbol, name and paths.
 - **Files:** 36 coins, all vector SVG, no embedded raster images. Logos come from each project's official brand files.
 - **Limits:** the hosted URLs are free up to 2M requests a month per site, served from a CDN with `Access-Control-Allow-Origin: *`.
